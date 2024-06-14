@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229031662431",
+    "project_id": "constructors-310fc",
+    "storage_bucket": "constructors-310fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229031662431:android:e494217450b6b98b239cea",
+        "android_client_info": {
+          "package_name": "com.example.constructors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0m8A-TcRjWf6p_q8KEjLqzsyHtK_Z8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
